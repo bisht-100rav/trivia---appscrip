@@ -1,0 +1,25 @@
+[
+    {
+        "1": "Who is the best cricketer in the world?",
+        "2": "What are the colors in the Indian national flag? Select all"
+    },
+    {
+        "1": {
+            "a": "Sachin Tendulkar",
+            "b": "Virat Kolli",
+            "c": "Adam Gilchirst",
+            "d": "Jacques Kallis"
+        },
+        "2": {
+            "a": "White",
+            "b": "Yellow",
+            "c": "Orange",
+            "d": "Green"
+        }
+        
+    },
+    {
+        "1": "Sachin Tendulkar",
+        "2": ["white","orange","green"]
+    }
+]
